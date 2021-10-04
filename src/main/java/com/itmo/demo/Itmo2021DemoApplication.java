@@ -11,7 +11,7 @@ public class Itmo2021DemoApplication {
 
 	@GetMapping("/")
 	public  String index() {
-		return "Hello, ITMO! We deployed the project ;) ";
+		return "Hello, ITMO-2021! We deployed the project!!! ;) ";
 	}
 
 	public static void main(String[] args) {
